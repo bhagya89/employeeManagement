@@ -1,0 +1,17 @@
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\bin\Debug\net6.0\EmployeeData.DAL.deps.json
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\bin\Debug\net6.0\EmployeeData.DAL.runtimeconfig.json
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\bin\Debug\net6.0\EmployeeData.DAL.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\bin\Debug\net6.0\EmployeeData.DAL.pdb
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\bin\Debug\net6.0\EmployeeData.Commons.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\bin\Debug\net6.0\EmployeeData.Commons.pdb
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.csproj.AssemblyReference.cache
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.AssemblyInfoInputs.cache
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.AssemblyInfo.cs
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.csproj.CopyComplete
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\refint\EmployeeData.DAL.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.pdb
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\EmployeeData.DAL.genruntimeconfig.cache
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.DAL\obj\Debug\net6.0\ref\EmployeeData.DAL.dll

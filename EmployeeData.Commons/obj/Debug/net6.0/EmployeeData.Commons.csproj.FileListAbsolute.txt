@@ -1,0 +1,12 @@
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\bin\Debug\net6.0\EmployeeData.Commons.deps.json
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\bin\Debug\net6.0\EmployeeData.Commons.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\bin\Debug\net6.0\EmployeeData.Commons.pdb
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.AssemblyInfoInputs.cache
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.AssemblyInfo.cs
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\refint\EmployeeData.Commons.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.pdb
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\ref\EmployeeData.Commons.dll
+C:\Users\Arna\source\repos\EMployeeDataPro\EmployeeData.Commons\obj\Debug\net6.0\EmployeeData.Commons.csproj.AssemblyReference.cache
